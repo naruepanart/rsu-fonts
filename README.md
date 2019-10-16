@@ -1,1 +1,1 @@
-# rsu-fonts
+# fonts
